@@ -1,0 +1,311 @@
+{
+    "attrsList": [
+        {
+            "attrId": 106,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        },
+        {
+            "attrId": 107,
+            "attrName": "手机二级",
+            "attrValueList": [
+                "小米",
+                "华为",
+                "苹果"
+            ]
+        },
+        {
+            "attrId": 23,
+            "attrName": "运行内存",
+            "attrValueList": [
+                "4G",
+                "8G",
+                "12G",
+                "256G",
+                "6G",
+                "128G",
+                "3G"
+            ]
+        },
+        {
+            "attrId": 24,
+            "attrName": "机身内存",
+            "attrValueList": [
+                "1T",
+                "64G",
+                "128G"
+            ]
+        },
+        {
+            "attrId": 108,
+            "attrName": "CPU型号",
+            "attrValueList": [
+                "骁龙730G",
+                "骁龙439",
+                "骁龙845",
+                "5G骁龙768G",
+                "麒麟990"
+            ]
+        },
+        {
+            "attrId": 109,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        },
+        {
+            "attrId": 110,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        },
+        {
+            "attrId": 111,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        },
+        {
+            "attrId": 112,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        },
+        {
+            "attrId": 113,
+            "attrName": "手机一级",
+            "attrValueList": [
+                "安卓手机",
+                "苹果手机"
+            ]
+        }
+    ],
+    "goodsList": [
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+            "hotScore": 0,
+            "id": 2,
+            "price": 6999,
+            "title": "小米10 至尊纪念版 双模5G 骁龙865 120HZ高刷新率 120倍长焦镜头 120W快充 12GB+256GB 陶瓷黑 游戏手机",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+            "hotScore": 0,
+            "id": 6,
+            "price": 1299,
+            "title": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+            "hotScore": 0,
+            "id": 16,
+            "price": 6999,
+            "title": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 8GB+128GB亮黑色全网通5G手机",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAIZosAACYibCV0ks310.jpg",
+            "hotScore": 0,
+            "id": 21,
+            "price": 6999,
+            "title": "vivo S10 5G手机 8GB+256GB 青柠 超轻薄机身 前置4400万超清双摄 自然柔光人像 6nm旗舰芯片 拍照手机 青色",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+            "hotScore": 0,
+            "id": 17,
+            "price": 6999,
+            "title": "华为P40 5G【白条免息可选送豪礼】全网通智能手机 支持鸿蒙HarmonyOS 零度白 8G+128G",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+            "hotScore": 0,
+            "id": 7,
+            "price": 6999,
+            "title": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAJ8keAACU-49r2kw775.jpg",
+            "hotScore": 0,
+            "id": 3,
+            "price": 6999,
+            "title": "0e99152a7e59c478.jpg",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+            "hotScore": 0,
+            "id": 2,
+            "price": 6999,
+            "title": "小米10 至尊纪念版 双模5G 骁龙865 120HZ高刷新率 120倍长焦镜头 120W快充 12GB+256GB 陶瓷黑 游戏手机",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+            "hotScore": 0,
+            "id": 2,
+            "price": 6999,
+            "title": "小米10 至尊纪念版 双模5G 骁龙865 120HZ高刷新率 120倍长焦镜头 120W快充 12GB+256GB 陶瓷黑 游戏手机",
+            "tmId": null,
+            "tmName": null
+        },
+        {
+            "attrs": null,
+            "category1Id": null,
+            "category1Name": null,
+            "category2Id": null,
+            "category2Name": null,
+            "category3Id": null,
+            "category3Name": null,
+            "createTime": null,
+            "defaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rfvmAcbl2AAFopp2WGBQ404.jpg",
+            "hotScore": 0,
+            "id": 2,
+            "price": 6999,
+            "title": "小米10 至尊纪念版 双模5G 骁龙865 120HZ高刷新率 120倍长焦镜头 120W快充 12GB+256GB 陶瓷黑 游戏手机",
+            "tmId": null,
+            "tmName": null
+        }
+    ],
+    "pageNo": 1,
+    "total": 247,
+    "totalPages": 25,
+    "trademarkList": [
+        {
+            "tmId": 1,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 2,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 3,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 4,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 5,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 6,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 7,
+            "tmName": "VIVO"
+        },
+        {
+            "tmId": 8,
+            "tmName": "戴尔"
+        },
+        {
+            "tmId": 9,
+            "tmName": "华硕"
+        },
+        {
+            "tmId": 10,
+            "tmName": "VIVO"
+        }
+    ]
+}
